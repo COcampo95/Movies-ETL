@@ -1,0 +1,1 @@
+db_password = 'B00tcamp_2022'
